@@ -2,7 +2,7 @@
   <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
 </p>
 <h1 align="center">
-  <b>ᴍᴜᴋᴇsʜ X sᴘᴀᴍ</b>
+  <b>Mr Hacker X Spam</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/itz-mst-boy/Spambotfather?style=flat-square&color=orange)](https://github.com/itz-mst-boy/Spambotfather/fork)
@@ -20,9 +20,9 @@
 
 
 # Support & Updates
-* [Channel](https://t.me/mukhushi_official)
-* [Support Group](https://t.me/cbseclass10mcqs)
+* [Channel](https://t.me/Neet_UG_PCB_MNO)
+* [Support Group](https://t.me/discussi0n10)
  
 # Credits
 * [RiZoeL ](https://t.me/MrRizoel)
-* [Mukesh](https://telegram.dog/itz_mst_boy)
+* [Mr.Hacker](https://t.me/X_Aanand_X)
